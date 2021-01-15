@@ -1,10 +1,10 @@
 /**********************************************************************************  
  * WEB700–Assignment1
  * I declare that this assignment is my own work in accordance with Seneca Academic Policy. 
- *  No part of this assignment has been copied manually or electronically from any other source
+ * No part of this assignment has been copied manually or electronically from any other source
  * (including web sites) or distributed to other students
  * 
- * Name: Geet Kumar Choubey Student ID: ______________ Date: ________________
+ * Name: Geet Kumar Choubey Student ID: 155876196 Date: 15-Jan-2021
  * 
  ********************************************************************************/
 

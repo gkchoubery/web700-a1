@@ -1,0 +1,20 @@
+{
+  "name": "web700-assignment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a1.js",
+  "scripts": {
+    "test": "node a1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkchoubery/web700-a1.git"
+  },
+  "keywords": [],
+  "author": "Geet Kumar Choubey <gkchoubery@myseneca.ca>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkchoubery/web700-a1/issues"
+  },
+  "homepage": "https://github.com/gkchoubery/web700-a1#readme"
+}

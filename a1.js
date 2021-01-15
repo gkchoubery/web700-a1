@@ -12,7 +12,7 @@
  let serverVerbs = ['GET', 'GET', 'GET', 'POST', 'GET', 'POST'];
  let serverPaths = ['/', '/about', '/contact', '/login', '/panel', '/logout'];
  let serverResponses = ['Welcome to WEB700 Assignment 1', 'This assignment was prepared by Geet Kumar Choubey',
- 'Geet Kumar Choubey:gkchoubery@myseneca.ca', 'Login Complete', 'Main Panel', 'Logout Complete'];
+ 'Geet Kumar Choubey: gkchoubery@myseneca.ca', 'Login Complete', 'Main Panel', 'Logout Complete'];
 
  /**
   * Step 4: Web server simulator to simulate requests and responses
@@ -21,7 +21,7 @@
   * @returns {string} response of the simulator
   */
  const handleRequest = (httpVerb, path) => {
-     for (let i = 0; i < serverVerbs.length; i++) {
+     for (let i = 0; i < serverPaths.length; i++) {
          if (httpVerb === serverVerbs[i] && path === serverPaths[i]) {
              return `200: ${serverResponses[i]}`;
          }
